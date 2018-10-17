@@ -1,0 +1,50 @@
+C:\Users\User\Desktop\C#語言\WindowsFormsApp作業5-4\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5-4.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C#語言\WindowsFormsApp作業5-4\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5_4.Properties.Resources.resources
+C:\Users\User\Desktop\C#語言\WindowsFormsApp作業5-4\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5-4.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#語言\WindowsFormsApp作業5-4\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5-4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#語言\WindowsFormsApp作業5-4\WindowsFormsApp作業5-4\bin\Debug\WindowsFormsApp作業5-4.exe.config
+C:\Users\User\Desktop\C#語言\WindowsFormsApp作業5-4\WindowsFormsApp作業5-4\bin\Debug\WindowsFormsApp作業5-4.exe
+C:\Users\User\Desktop\C#語言\WindowsFormsApp作業5-4\WindowsFormsApp作業5-4\bin\Debug\WindowsFormsApp作業5-4.pdb
+C:\Users\User\Desktop\C#語言\WindowsFormsApp作業5-4\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5-4.exe
+C:\Users\User\Desktop\C#語言\WindowsFormsApp作業5-4\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5-4.pdb
+C:\Users\User\Desktop\C#語言\WindowsFormsApp作業5-4\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5_4.form1.resources
+C:\Users\iii\Desktop\C#語言\WindowsFormsApp作業5-4\WindowsFormsApp作業5-4\bin\Debug\WindowsFormsApp作業5-4.exe.config
+C:\Users\iii\Desktop\C#語言\WindowsFormsApp作業5-4\WindowsFormsApp作業5-4\bin\Debug\WindowsFormsApp作業5-4.exe
+C:\Users\iii\Desktop\C#語言\WindowsFormsApp作業5-4\WindowsFormsApp作業5-4\bin\Debug\WindowsFormsApp作業5-4.pdb
+C:\Users\iii\Desktop\C#語言\WindowsFormsApp作業5-4\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5-4.csprojAssemblyReference.cache
+C:\Users\iii\Desktop\C#語言\WindowsFormsApp作業5-4\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5_4.form1.resources
+C:\Users\iii\Desktop\C#語言\WindowsFormsApp作業5-4\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5_4.Properties.Resources.resources
+C:\Users\iii\Desktop\C#語言\WindowsFormsApp作業5-4\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5-4.csproj.GenerateResource.cache
+C:\Users\iii\Desktop\C#語言\WindowsFormsApp作業5-4\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5-4.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\C#語言\WindowsFormsApp作業5-4\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5-4.exe
+C:\Users\iii\Desktop\C#語言\WindowsFormsApp作業5-4\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5-4.pdb
+C:\Users\User\Desktop\C#語言\WindowsFormsApp作業5-4 - 複製\WindowsFormsApp作業5-4\bin\Debug\WindowsFormsApp作業5-4.exe.config
+C:\Users\User\Desktop\C#語言\WindowsFormsApp作業5-4 - 複製\WindowsFormsApp作業5-4\bin\Debug\WindowsFormsApp作業5-4.exe
+C:\Users\User\Desktop\C#語言\WindowsFormsApp作業5-4 - 複製\WindowsFormsApp作業5-4\bin\Debug\WindowsFormsApp作業5-4.pdb
+C:\Users\User\Desktop\C#語言\WindowsFormsApp作業5-4 - 複製\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5-4.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C#語言\WindowsFormsApp作業5-4 - 複製\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5_4.form1.resources
+C:\Users\User\Desktop\C#語言\WindowsFormsApp作業5-4 - 複製\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5_4.Properties.Resources.resources
+C:\Users\User\Desktop\C#語言\WindowsFormsApp作業5-4 - 複製\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5-4.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#語言\WindowsFormsApp作業5-4 - 複製\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5-4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#語言\WindowsFormsApp作業5-4 - 複製\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5-4.exe
+C:\Users\User\Desktop\C#語言\WindowsFormsApp作業5-4 - 複製\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5-4.pdb
+C:\Users\User\Desktop\C#語言\WindowsFormsApp作業5-4 ok 1\WindowsFormsApp作業5-4\bin\Debug\WindowsFormsApp作業5-4.exe.config
+C:\Users\User\Desktop\C#語言\WindowsFormsApp作業5-4 ok 1\WindowsFormsApp作業5-4\bin\Debug\WindowsFormsApp作業5-4.exe
+C:\Users\User\Desktop\C#語言\WindowsFormsApp作業5-4 ok 1\WindowsFormsApp作業5-4\bin\Debug\WindowsFormsApp作業5-4.pdb
+C:\Users\User\Desktop\C#語言\WindowsFormsApp作業5-4 ok 1\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5-4.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C#語言\WindowsFormsApp作業5-4 ok 1\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5_4.form1.resources
+C:\Users\User\Desktop\C#語言\WindowsFormsApp作業5-4 ok 1\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5_4.Properties.Resources.resources
+C:\Users\User\Desktop\C#語言\WindowsFormsApp作業5-4 ok 1\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5-4.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#語言\WindowsFormsApp作業5-4 ok 1\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5-4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#語言\WindowsFormsApp作業5-4 ok 1\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5-4.exe
+C:\Users\User\Desktop\C#語言\WindowsFormsApp作業5-4 ok 1\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5-4.pdb
+C:\Users\User\Desktop\資策會課程\C#語言\WindowsFormsApp作業5-4 ok 1\WindowsFormsApp作業5-4\bin\Debug\WindowsFormsApp作業5-4.exe.config
+C:\Users\User\Desktop\資策會課程\C#語言\WindowsFormsApp作業5-4 ok 1\WindowsFormsApp作業5-4\bin\Debug\WindowsFormsApp作業5-4.exe
+C:\Users\User\Desktop\資策會課程\C#語言\WindowsFormsApp作業5-4 ok 1\WindowsFormsApp作業5-4\bin\Debug\WindowsFormsApp作業5-4.pdb
+C:\Users\User\Desktop\資策會課程\C#語言\WindowsFormsApp作業5-4 ok 1\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5-4.csprojAssemblyReference.cache
+C:\Users\User\Desktop\資策會課程\C#語言\WindowsFormsApp作業5-4 ok 1\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5_4.form1.resources
+C:\Users\User\Desktop\資策會課程\C#語言\WindowsFormsApp作業5-4 ok 1\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5_4.Properties.Resources.resources
+C:\Users\User\Desktop\資策會課程\C#語言\WindowsFormsApp作業5-4 ok 1\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5-4.csproj.GenerateResource.cache
+C:\Users\User\Desktop\資策會課程\C#語言\WindowsFormsApp作業5-4 ok 1\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5-4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\資策會課程\C#語言\WindowsFormsApp作業5-4 ok 1\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5-4.exe
+C:\Users\User\Desktop\資策會課程\C#語言\WindowsFormsApp作業5-4 ok 1\WindowsFormsApp作業5-4\obj\Debug\WindowsFormsApp作業5-4.pdb
